@@ -1,4 +1,5 @@
-# Nagios configuration scripts for version 4.4.3
+# Nagios configuration scripts for
+# version 4.4.3
 # with sample NRPE scripts
 
 This project is to establish a set of example configuration for default Nagios installation on Centos Linux. It is not meant for a final production, but more leaarning and understanding how to set up monitoring of remote host and grouping the host machines. 
